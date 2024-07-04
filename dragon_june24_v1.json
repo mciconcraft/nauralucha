@@ -1,5 +1,24 @@
 [
   {
+    "Categories": [
+      {
+        "id": 1,
+        "name_category": "minecraft google play",
+        "image": "https://lh3.googleusercontent.com/d/https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      },
+      {
+        "id": 2,
+        "name_category": "Minecraft Skin",
+        "image": "https://lh3.googleusercontent.com/d/http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      },
+      {
+        "id": 3,
+        "name_category": "minecraft play store",
+        "image": "https://lh3.googleusercontent.com/d/file:///android_asset/image/car.jpg"
+      }
+    ]
+  },
+  {
     "id": 1,
     "name_category": "Nature",
     "title": "Dragon_001",
