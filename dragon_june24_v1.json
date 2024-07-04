@@ -19,331 +19,335 @@
     ]
   },
   {
-    "id": 1,
-    "name_category": "Nature",
-    "title": "Dragon_001",
-    "image": "file:///android_asset/view/dragon_001.png",
-    "skin": "https://lh3.googleusercontent.com/-s8unsv7XmTY/YZUEWPMeLrI/AAAAAAAAsMU/06XjyHiKqt4pE0lYejDBLNPS_biiIcz3ACLcBGAsYHQ/dragon_001.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
-  },
-  {
-    "id": 2,
-    "name_category": "Nature",
-    "title": "Dragon_002",
-    "image": "file:///android_asset/view/dragon_002.png",
-    "skin": "https://lh3.googleusercontent.com/-jI_XmpZyYFI/YZUEWK7zD-I/AAAAAAAAsMA/iiShOnTTc54fUH7umHqOX2cEV6dqU-uFQCLcBGAsYHQ/dragon_002.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
-  },
-  {
-    "id": 3,
-    "name_category": "Nature",
-    "title": "Dragon_003",
-    "image": "file:///android_asset/view/dragon_003.png",
-    "skin": "https://lh3.googleusercontent.com/-uG60rT3kClM/YZUEWKmUooI/AAAAAAAAsMQ/_NoEdsFvYJgcn3TAUqiMy3PEz0mmFr8zwCLcBGAsYHQ/dragon_003.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
-  },
-  {
-    "id": 4,
-    "name_category": "Nature",
-    "title": "Dragon_004",
-    "image": "file:///android_asset/view/dragon_004.png",
-    "skin": "https://lh3.googleusercontent.com/-aVDdTTULOQ4/YZUEWKaKZkI/AAAAAAAAsL8/bEirvLp1wZ8i4f304pQkM4mM0a7vpPaqgCLcBGAsYHQ/dragon_004.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
-  },
-  {
-    "id": 5,
-    "name_category": "Nature",
-    "title": "Dragon_005",
-    "image": "file:///android_asset/view/dragon_005.png",
-    "skin": "https://lh3.googleusercontent.com/-c4u3TEZSCw4/YZUEWN7thXI/AAAAAAAAsME/Z-2wtih7Q0op1SJk88tYGNee-X7Inah5wCLcBGAsYHQ/dragon_005.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
-  },
-  {
-    "id": 6,
-    "name_category": "Nature",
-    "title": "Dragon_006",
-    "image": "file:///android_asset/view/dragon_006.png",
-    "skin": "https://lh3.googleusercontent.com/-uMMOtpMe6WQ/YZUEWOIfcHI/AAAAAAAAsMI/u6ospa54pek_KJeMyG9uYpm5Sz130ONhwCLcBGAsYHQ/dragon_006.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
-  },
-  {
-    "id": 7,
-    "name_category": "Nature",
-    "title": "Dragon_007",
-    "image": "file:///android_asset/view/dragon_007.png",
-    "skin": "https://lh3.googleusercontent.com/-R-b08PYkivc/YZUEW_i9riI/AAAAAAAAsMM/Ycx3byUx4vM0wh0baPG0R5vjeCc-2w2PwCLcBGAsYHQ/dragon_007.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
-  },
-  {
-    "id": 8,
-    "name_category": "Nature",
-    "title": "Dragon_008",
-    "image": "file:///android_asset/view/dragon_008.png",
-    "skin": "https://lh3.googleusercontent.com/--luYc_w35A4/YZUEXaIUe3I/AAAAAAAAsMY/KG_t_zXOiN8f3CtLIZn4ZXm3_4XECRR9wCLcBGAsYHQ/dragon_008.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
-  },
-  {
-    "id": 9,
-    "name_category": "Nature",
-    "title": "Dragon_009",
-    "image": "file:///android_asset/view/dragon_009.png",
-    "skin": "https://lh3.googleusercontent.com/-ASnYu9INfMI/YZUEXfxwScI/AAAAAAAAsMc/R579rhDjUIAeKkwxAco1njHdXAGCLLsTwCLcBGAsYHQ/dragon_009.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
-  },
-  {
-    "id": 10,
-    "name_category": "Nature",
-    "title": "Dragon_010",
-    "image": "file:///android_asset/view/dragon_010.png",
-    "skin": "https://lh3.googleusercontent.com/-KOQC0Np0xeA/YZUEXiX6UYI/AAAAAAAAsMk/tLCzBOymlq8pfVSY6FSPlXUVh_SAnvRUgCLcBGAsYHQ/dragon_010.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
-  },
-  {
-    "id": 11,
-    "name_category": "Nature",
-    "title": "Dragon_011",
-    "image": "file:///android_asset/view/dragon_011.png",
-    "skin": "https://lh3.googleusercontent.com/-DlElU3Z8qqk/YZUEXpoi4hI/AAAAAAAAsMg/WLsNb1Ooz9UbJKgOpqQEAwfAru_cZ68sgCLcBGAsYHQ/dragon_011.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
-  },
-  {
-    "id": 12,
-    "name_category": "Nature",
-    "title": "Dragon_012",
-    "image": "file:///android_asset/view/dragon_012.png",
-    "skin": "https://lh3.googleusercontent.com/-Rg_IjibPHNo/YZUEX9znUgI/AAAAAAAAsMo/n2aub2ohG-QFOIALbE0p14mSHnRiFS4WwCLcBGAsYHQ/dragon_012.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
-  },
-  {
-    "id": 13,
-    "name_category": "Nature",
-    "title": "Dragon_013",
-    "image": "file:///android_asset/view/dragon_013.png",
-    "skin": "https://lh3.googleusercontent.com/-yz0jrWXeUJ4/YZUEYPaSV_I/AAAAAAAAsMs/ZazVYxBxfhk366cBcEbnWvN-VsXwb9ZigCLcBGAsYHQ/dragon_013.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
-  },
-  {
-    "id": 14,
-    "name_category": "Nature",
-    "title": "Dragon_014",
-    "image": "file:///android_asset/view/dragon_014.png",
-    "skin": "https://lh3.googleusercontent.com/-xA5LZhusJ-Q/YZUEYSWJ6LI/AAAAAAAAsMw/gloxSN61un0n3AKCh7J1YXT6QNnGrKbBACLcBGAsYHQ/dragon_014.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
-  },
-  {
-    "id": 15,
-    "name_category": "Nature",
-    "title": "Dragon_015",
-    "image": "file:///android_asset/view/dragon_015.png",
-    "skin": "https://lh3.googleusercontent.com/-HRHN5dB_SDA/YZUEYsqBKpI/AAAAAAAAsM0/ku4OQ91BbFgpuahlP48LokGox4II1ZeSQCLcBGAsYHQ/dragon_015.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
-  },
-  {
-    "id": 16,
-    "name_category": "Nature",
-    "title": "Dragon_016",
-    "image": "file:///android_asset/view/dragon_016.png",
-    "skin": "https://lh3.googleusercontent.com/-0SnGClzVxGk/YZUEZAUY5qI/AAAAAAAAsM4/_oulAsCUkIsXdUA90trT8VWEteWGyFKnACLcBGAsYHQ/dragon_016.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
-  },
-  {
-    "id": 17,
-    "name_category": "Nature",
-    "title": "Dragon_017",
-    "image": "file:///android_asset/view/dragon_017.png",
-    "skin": "https://lh3.googleusercontent.com/-3nVVXMNgKuc/YZUEZjRWAoI/AAAAAAAAsM8/S5xhKmFxLHAxS3VPoDhrW5a2hwNCXnd2QCLcBGAsYHQ/dragon_017.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
-  },
-  {
-    "id": 18,
-    "name_category": "Nature",
-    "title": "Dragon_018",
-    "image": "file:///android_asset/view/dragon_018.png",
-    "skin": "https://lh3.googleusercontent.com/-ujs4s3_QaKY/YZUEZ96fboI/AAAAAAAAsNA/laugso66CqcjOaGRYNLQmcEbqQKpJU67gCLcBGAsYHQ/dragon_018.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
-  },
-  {
-    "id": 19,
-    "name_category": "Nature",
-    "title": "Dragon_019",
-    "image": "file:///android_asset/view/dragon_019.png",
-    "skin": "https://lh3.googleusercontent.com/-rFvAi0ryWuQ/YZUEaQwHDHI/AAAAAAAAsNE/Uat_ZNqrgFcAA7EJ_UXL6BUqjA7keha3QCLcBGAsYHQ/dragon_019.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
-  },
-  {
-    "id": 20,
-    "name_category": "Nature",
-    "title": "Dragon_020",
-    "image": "file:///android_asset/view/dragon_020.png",
-    "skin": "https://lh3.googleusercontent.com/-n8NvH2QYO1g/YZUEakN4K0I/AAAAAAAAsNI/4DYR_vVl7F4xN7Emej7FEWKts-FBoS72wCLcBGAsYHQ/dragon_020.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
-  },
-  {
-    "id": 21,
-    "name_category": "Nature",
-    "title": "Dragon_021",
-    "image": "file:///android_asset/view/dragon_021.png",
-    "skin": "https://lh3.googleusercontent.com/-UH2PodpHHGY/YZUEa7S5P0I/AAAAAAAAsNM/UjH0Ph9HhBQ7Eg7QEIIx4ucjRYwnD5MwgCLcBGAsYHQ/dragon_021.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
-  },
-  {
-    "id": 22,
-    "name_category": "Nature",
-    "title": "Dragon_022",
-    "image": "file:///android_asset/view/dragon_022.png",
-    "skin": "https://lh3.googleusercontent.com/-DWcCD3jng_4/YZUEbQLzSnI/AAAAAAAAsNQ/OAH9plx3CH0JtplGzHcSJGM-YjQuHyCOwCLcBGAsYHQ/dragon_022.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
-  },
-  {
-    "id": 23,
-    "name_category": "Nature",
-    "title": "Dragon_023",
-    "image": "file:///android_asset/view/dragon_023.png",
-    "skin": "https://lh3.googleusercontent.com/-zMvhAhYzm-s/YZUEbtf4VuI/AAAAAAAAsNU/dT4yU1o6ArcIowVolnToIcXFvoBfyOduACLcBGAsYHQ/dragon_023.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
-  },
-  {
-    "id": 24,
-    "name_category": "Nature",
-    "title": "Dragon_024",
-    "image": "file:///android_asset/view/dragon_024.png",
-    "skin": "https://lh3.googleusercontent.com/-tuYRidTh_4c/YZUEcJMiKyI/AAAAAAAAsNY/iY5SoCcB38cnb5SWCzlecOUYddGUQoktQCLcBGAsYHQ/dragon_024.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
-  },
-  {
-    "id": 25,
-    "name_category": "Nature",
-    "title": "Dragon_025",
-    "image": "file:///android_asset/view/dragon_025.png",
-    "skin": "https://lh3.googleusercontent.com/-1xKxacayADQ/YZUEcayjONI/AAAAAAAAsNc/-sb2Z9PdCOYhQc987rgjzsVFwvQz6sJ9QCLcBGAsYHQ/dragon_025.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
-  },
-  {
-    "id": 26,
-    "name_category": "Nature",
-    "title": "Dragon_026",
-    "image": "file:///android_asset/view/dragon_026.png",
-    "skin": "https://lh3.googleusercontent.com/-rIgli7Rljog/YZUEc2aJZTI/AAAAAAAAsNg/JV59Dwvcvi0J_2zdkV4upA6R7-r5JJElQCLcBGAsYHQ/dragon_026.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
-  },
-  {
-    "id": 27,
-    "name_category": "Nature",
-    "title": "Dragon_027",
-    "image": "file:///android_asset/view/dragon_027.png",
-    "skin": "https://lh3.googleusercontent.com/-g7tT8Iwq_24/YZUEcyGKzbI/AAAAAAAAsNk/e2-4rH3OyVYgczXMrVMSt1Gh9Vd9_gwPACLcBGAsYHQ/dragon_027.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
-  },
-  {
-    "id": 28,
-    "name_category": "Nature",
-    "title": "Dragon_028",
-    "image": "file:///android_asset/view/dragon_028.png",
-    "skin": "https://lh3.googleusercontent.com/-5u8NTyIwydc/YZUEdTz7BlI/AAAAAAAAsNo/xKtynKyBt3o6NvbQa2j3Iuo-jqb0e8B7wCLcBGAsYHQ/dragon_028.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
-  },
-  {
-    "id": 29,
-    "name_category": "Nature",
-    "title": "Dragon_029",
-    "image": "file:///android_asset/view/dragon_029.png",
-    "skin": "https://lh3.googleusercontent.com/-Vn8MYaWLEtM/YZUEdmq1WvI/AAAAAAAAsNs/nE-w2ae6E7MllBBlMy36uHEVv3PYT6CXwCLcBGAsYHQ/dragon_029.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
-  },
-  {
-    "id": 30,
-    "name_category": "Nature",
-    "title": "Dragon_030",
-    "image": "file:///android_asset/view/dragon_030.png",
-    "skin": "https://lh3.googleusercontent.com/-YMNRHUnQS3M/YZUEeLIobnI/AAAAAAAAsNw/Er0SX9yiQxEMIAqt_eLESXijdCr5sJ1vQCLcBGAsYHQ/dragon_030.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
-  },
-  {
-    "id": 31,
-    "name_category": "Nature",
-    "title": "Dragon_031",
-    "image": "file:///android_asset/view/dragon_031.png",
-    "skin": "https://lh3.googleusercontent.com/-YsQQQS3aT2k/YZUEes-uE8I/AAAAAAAAsN0/V6WsmsXNDu4F-3JoXKYAZBL3hoGT90aAwCLcBGAsYHQ/dragon_031.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
-  },
-  {
-    "id": 32,
-    "name_category": "Nature",
-    "title": "Dragon_032",
-    "image": "file:///android_asset/view/dragon_032.png",
-    "skin": "https://lh3.googleusercontent.com/-yHL4FYVg45Q/YZUEe5n8PmI/AAAAAAAAsN4/bsdeC8hxybcfQBC_4sXMaL2EUghOs0nbQCLcBGAsYHQ/dragon_032.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
-  },
-  {
-    "id": 33,
-    "name_category": "Nature",
-    "title": "Dragon_033",
-    "image": "file:///android_asset/view/dragon_033.png",
-    "skin": "https://lh3.googleusercontent.com/-kQVhOFJb0EU/YZUEfWOzuoI/AAAAAAAAsN8/yAZfOVbycwgad-NR8ionttHxvDKlroviACLcBGAsYHQ/dragon_033.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
-  },
-  {
-    "id": 34,
-    "name_category": "Nature",
-    "title": "Dragon_034",
-    "image": "file:///android_asset/view/dragon_034.png",
-    "skin": "https://lh3.googleusercontent.com/-3-G5PhEdSrs/YZUEfpUA4NI/AAAAAAAAsOA/yZoHD9GFfuUJvtV181us4rW0RJLKvHAOQCLcBGAsYHQ/dragon_034.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
-  },
-  {
-    "id": 35,
-    "name_category": "Nature",
-    "title": "Dragon_035",
-    "image": "file:///android_asset/view/dragon_035.png",
-    "skin": "https://lh3.googleusercontent.com/-wRBEJaYHk9c/YZUEgLh-WpI/AAAAAAAAsOE/8EEtgNGMClE-h3NRz6zhzg-R47fAncoUACLcBGAsYHQ/dragon_035.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
-  },
-  {
-    "id": 36,
-    "name_category": "Nature",
-    "title": "Dragon_036",
-    "image": "file:///android_asset/view/dragon_036.png",
-    "skin": "https://lh3.googleusercontent.com/-dOims7qKsZ4/YZUEgPr7DEI/AAAAAAAAsOI/bJesfDL01Rk7tP06EwH4gA4E_g4GhNTGQCLcBGAsYHQ/dragon_036.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
-  },
-  {
-    "id": 37,
-    "name_category": "Nature",
-    "title": "Dragon_037",
-    "image": "file:///android_asset/view/dragon_037.png",
-    "skin": "https://lh3.googleusercontent.com/-g8702Io8DQE/YZUEgoFR37I/AAAAAAAAsOM/WEeUoc7WftUq8s9ZC9umQz4Xmr6uVWatgCLcBGAsYHQ/dragon_037.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
-  },
-  {
-    "id": 38,
-    "name_category": "Nature",
-    "title": "Dragon_038",
-    "image": "file:///android_asset/view/dragon_038.png",
-    "skin": "https://lh3.googleusercontent.com/-izGkrPouxlk/YZUEhMzy4UI/AAAAAAAAsOQ/8mBPcUZ9P6s9M3E4hEwgVoK-DsHZ0Pc4wCLcBGAsYHQ/dragon_038.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
-  },
-  {
-    "id": 39,
-    "name_category": "Nature",
-    "title": "Dragon_039",
-    "image": "file:///android_asset/view/dragon_039.png",
-    "skin": "https://lh3.googleusercontent.com/-y58b6MjmIc4/YZUEhjbSXcI/AAAAAAAAsOY/rDfv_xGBNYIjr8pAGMwEPD8fsYYJWVC_wCLcBGAsYHQ/dragon_039.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
-  },
-  {
-    "id": 40,
-    "name_category": "Nature",
-    "title": "Dragon_040",
-    "image": "file:///android_asset/view/dragon_040.png",
-    "skin": "https://lh3.googleusercontent.com/-svdxXtRgtSg/YZUEh2KtYqI/AAAAAAAAsOc/DxNu5T6NgfQzB8Z2rXqt4amBlaI_SpaLACLcBGAsYHQ/dragon_040.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
-  },
-  {
-    "id": 41,
-    "name_category": "Nature",
-    "title": "Dragon_041",
-    "image": "file:///android_asset/view/dragon_041.png",
-    "skin": "https://lh3.googleusercontent.com/-m5jUo2Dw2ak/YZUEipPG0_I/AAAAAAAAsOU/edfyLHJSsaw7GgKXTba_aiGLyqoAONrzgCLcBGAsYHQ/dragon_041.png",
-    "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+    "Data": [
+      {
+        "id": 1,
+        "name_category": "Nature",
+        "title": "Dragon_001",
+        "image": "file:///android_asset/view/dragon_001.png",
+        "skin": "https://lh3.googleusercontent.com/-s8unsv7XmTY/YZUEWPMeLrI/AAAAAAAAsMU/06XjyHiKqt4pE0lYejDBLNPS_biiIcz3ACLcBGAsYHQ/dragon_001.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+      },
+      {
+        "id": 2,
+        "name_category": "Nature",
+        "title": "Dragon_002",
+        "image": "file:///android_asset/view/dragon_002.png",
+        "skin": "https://lh3.googleusercontent.com/-jI_XmpZyYFI/YZUEWK7zD-I/AAAAAAAAsMA/iiShOnTTc54fUH7umHqOX2cEV6dqU-uFQCLcBGAsYHQ/dragon_002.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+      },
+      {
+        "id": 3,
+        "name_category": "Nature",
+        "title": "Dragon_003",
+        "image": "file:///android_asset/view/dragon_003.png",
+        "skin": "https://lh3.googleusercontent.com/-uG60rT3kClM/YZUEWKmUooI/AAAAAAAAsMQ/_NoEdsFvYJgcn3TAUqiMy3PEz0mmFr8zwCLcBGAsYHQ/dragon_003.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+      },
+      {
+        "id": 4,
+        "name_category": "Nature",
+        "title": "Dragon_004",
+        "image": "file:///android_asset/view/dragon_004.png",
+        "skin": "https://lh3.googleusercontent.com/-aVDdTTULOQ4/YZUEWKaKZkI/AAAAAAAAsL8/bEirvLp1wZ8i4f304pQkM4mM0a7vpPaqgCLcBGAsYHQ/dragon_004.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+      },
+      {
+        "id": 5,
+        "name_category": "Nature",
+        "title": "Dragon_005",
+        "image": "file:///android_asset/view/dragon_005.png",
+        "skin": "https://lh3.googleusercontent.com/-c4u3TEZSCw4/YZUEWN7thXI/AAAAAAAAsME/Z-2wtih7Q0op1SJk88tYGNee-X7Inah5wCLcBGAsYHQ/dragon_005.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+      },
+      {
+        "id": 6,
+        "name_category": "Nature",
+        "title": "Dragon_006",
+        "image": "file:///android_asset/view/dragon_006.png",
+        "skin": "https://lh3.googleusercontent.com/-uMMOtpMe6WQ/YZUEWOIfcHI/AAAAAAAAsMI/u6ospa54pek_KJeMyG9uYpm5Sz130ONhwCLcBGAsYHQ/dragon_006.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+      },
+      {
+        "id": 7,
+        "name_category": "Nature",
+        "title": "Dragon_007",
+        "image": "file:///android_asset/view/dragon_007.png",
+        "skin": "https://lh3.googleusercontent.com/-R-b08PYkivc/YZUEW_i9riI/AAAAAAAAsMM/Ycx3byUx4vM0wh0baPG0R5vjeCc-2w2PwCLcBGAsYHQ/dragon_007.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+      },
+      {
+        "id": 8,
+        "name_category": "Nature",
+        "title": "Dragon_008",
+        "image": "file:///android_asset/view/dragon_008.png",
+        "skin": "https://lh3.googleusercontent.com/--luYc_w35A4/YZUEXaIUe3I/AAAAAAAAsMY/KG_t_zXOiN8f3CtLIZn4ZXm3_4XECRR9wCLcBGAsYHQ/dragon_008.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+      },
+      {
+        "id": 9,
+        "name_category": "Nature",
+        "title": "Dragon_009",
+        "image": "file:///android_asset/view/dragon_009.png",
+        "skin": "https://lh3.googleusercontent.com/-ASnYu9INfMI/YZUEXfxwScI/AAAAAAAAsMc/R579rhDjUIAeKkwxAco1njHdXAGCLLsTwCLcBGAsYHQ/dragon_009.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+      },
+      {
+        "id": 10,
+        "name_category": "Nature",
+        "title": "Dragon_010",
+        "image": "file:///android_asset/view/dragon_010.png",
+        "skin": "https://lh3.googleusercontent.com/-KOQC0Np0xeA/YZUEXiX6UYI/AAAAAAAAsMk/tLCzBOymlq8pfVSY6FSPlXUVh_SAnvRUgCLcBGAsYHQ/dragon_010.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-1.mcpack"
+      },
+      {
+        "id": 11,
+        "name_category": "Nature",
+        "title": "Dragon_011",
+        "image": "file:///android_asset/view/dragon_011.png",
+        "skin": "https://lh3.googleusercontent.com/-DlElU3Z8qqk/YZUEXpoi4hI/AAAAAAAAsMg/WLsNb1Ooz9UbJKgOpqQEAwfAru_cZ68sgCLcBGAsYHQ/dragon_011.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+      },
+      {
+        "id": 12,
+        "name_category": "Nature",
+        "title": "Dragon_012",
+        "image": "file:///android_asset/view/dragon_012.png",
+        "skin": "https://lh3.googleusercontent.com/-Rg_IjibPHNo/YZUEX9znUgI/AAAAAAAAsMo/n2aub2ohG-QFOIALbE0p14mSHnRiFS4WwCLcBGAsYHQ/dragon_012.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+      },
+      {
+        "id": 13,
+        "name_category": "Nature",
+        "title": "Dragon_013",
+        "image": "file:///android_asset/view/dragon_013.png",
+        "skin": "https://lh3.googleusercontent.com/-yz0jrWXeUJ4/YZUEYPaSV_I/AAAAAAAAsMs/ZazVYxBxfhk366cBcEbnWvN-VsXwb9ZigCLcBGAsYHQ/dragon_013.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+      },
+      {
+        "id": 14,
+        "name_category": "Nature",
+        "title": "Dragon_014",
+        "image": "file:///android_asset/view/dragon_014.png",
+        "skin": "https://lh3.googleusercontent.com/-xA5LZhusJ-Q/YZUEYSWJ6LI/AAAAAAAAsMw/gloxSN61un0n3AKCh7J1YXT6QNnGrKbBACLcBGAsYHQ/dragon_014.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+      },
+      {
+        "id": 15,
+        "name_category": "Nature",
+        "title": "Dragon_015",
+        "image": "file:///android_asset/view/dragon_015.png",
+        "skin": "https://lh3.googleusercontent.com/-HRHN5dB_SDA/YZUEYsqBKpI/AAAAAAAAsM0/ku4OQ91BbFgpuahlP48LokGox4II1ZeSQCLcBGAsYHQ/dragon_015.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+      },
+      {
+        "id": 16,
+        "name_category": "Nature",
+        "title": "Dragon_016",
+        "image": "file:///android_asset/view/dragon_016.png",
+        "skin": "https://lh3.googleusercontent.com/-0SnGClzVxGk/YZUEZAUY5qI/AAAAAAAAsM4/_oulAsCUkIsXdUA90trT8VWEteWGyFKnACLcBGAsYHQ/dragon_016.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+      },
+      {
+        "id": 17,
+        "name_category": "Nature",
+        "title": "Dragon_017",
+        "image": "file:///android_asset/view/dragon_017.png",
+        "skin": "https://lh3.googleusercontent.com/-3nVVXMNgKuc/YZUEZjRWAoI/AAAAAAAAsM8/S5xhKmFxLHAxS3VPoDhrW5a2hwNCXnd2QCLcBGAsYHQ/dragon_017.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+      },
+      {
+        "id": 18,
+        "name_category": "Nature",
+        "title": "Dragon_018",
+        "image": "file:///android_asset/view/dragon_018.png",
+        "skin": "https://lh3.googleusercontent.com/-ujs4s3_QaKY/YZUEZ96fboI/AAAAAAAAsNA/laugso66CqcjOaGRYNLQmcEbqQKpJU67gCLcBGAsYHQ/dragon_018.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+      },
+      {
+        "id": 19,
+        "name_category": "Nature",
+        "title": "Dragon_019",
+        "image": "file:///android_asset/view/dragon_019.png",
+        "skin": "https://lh3.googleusercontent.com/-rFvAi0ryWuQ/YZUEaQwHDHI/AAAAAAAAsNE/Uat_ZNqrgFcAA7EJ_UXL6BUqjA7keha3QCLcBGAsYHQ/dragon_019.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+      },
+      {
+        "id": 20,
+        "name_category": "Nature",
+        "title": "Dragon_020",
+        "image": "file:///android_asset/view/dragon_020.png",
+        "skin": "https://lh3.googleusercontent.com/-n8NvH2QYO1g/YZUEakN4K0I/AAAAAAAAsNI/4DYR_vVl7F4xN7Emej7FEWKts-FBoS72wCLcBGAsYHQ/dragon_020.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-2.mcpack"
+      },
+      {
+        "id": 21,
+        "name_category": "Nature",
+        "title": "Dragon_021",
+        "image": "file:///android_asset/view/dragon_021.png",
+        "skin": "https://lh3.googleusercontent.com/-UH2PodpHHGY/YZUEa7S5P0I/AAAAAAAAsNM/UjH0Ph9HhBQ7Eg7QEIIx4ucjRYwnD5MwgCLcBGAsYHQ/dragon_021.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+      },
+      {
+        "id": 22,
+        "name_category": "Nature",
+        "title": "Dragon_022",
+        "image": "file:///android_asset/view/dragon_022.png",
+        "skin": "https://lh3.googleusercontent.com/-DWcCD3jng_4/YZUEbQLzSnI/AAAAAAAAsNQ/OAH9plx3CH0JtplGzHcSJGM-YjQuHyCOwCLcBGAsYHQ/dragon_022.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+      },
+      {
+        "id": 23,
+        "name_category": "Nature",
+        "title": "Dragon_023",
+        "image": "file:///android_asset/view/dragon_023.png",
+        "skin": "https://lh3.googleusercontent.com/-zMvhAhYzm-s/YZUEbtf4VuI/AAAAAAAAsNU/dT4yU1o6ArcIowVolnToIcXFvoBfyOduACLcBGAsYHQ/dragon_023.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+      },
+      {
+        "id": 24,
+        "name_category": "Nature",
+        "title": "Dragon_024",
+        "image": "file:///android_asset/view/dragon_024.png",
+        "skin": "https://lh3.googleusercontent.com/-tuYRidTh_4c/YZUEcJMiKyI/AAAAAAAAsNY/iY5SoCcB38cnb5SWCzlecOUYddGUQoktQCLcBGAsYHQ/dragon_024.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+      },
+      {
+        "id": 25,
+        "name_category": "Nature",
+        "title": "Dragon_025",
+        "image": "file:///android_asset/view/dragon_025.png",
+        "skin": "https://lh3.googleusercontent.com/-1xKxacayADQ/YZUEcayjONI/AAAAAAAAsNc/-sb2Z9PdCOYhQc987rgjzsVFwvQz6sJ9QCLcBGAsYHQ/dragon_025.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+      },
+      {
+        "id": 26,
+        "name_category": "Nature",
+        "title": "Dragon_026",
+        "image": "file:///android_asset/view/dragon_026.png",
+        "skin": "https://lh3.googleusercontent.com/-rIgli7Rljog/YZUEc2aJZTI/AAAAAAAAsNg/JV59Dwvcvi0J_2zdkV4upA6R7-r5JJElQCLcBGAsYHQ/dragon_026.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+      },
+      {
+        "id": 27,
+        "name_category": "Nature",
+        "title": "Dragon_027",
+        "image": "file:///android_asset/view/dragon_027.png",
+        "skin": "https://lh3.googleusercontent.com/-g7tT8Iwq_24/YZUEcyGKzbI/AAAAAAAAsNk/e2-4rH3OyVYgczXMrVMSt1Gh9Vd9_gwPACLcBGAsYHQ/dragon_027.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+      },
+      {
+        "id": 28,
+        "name_category": "Nature",
+        "title": "Dragon_028",
+        "image": "file:///android_asset/view/dragon_028.png",
+        "skin": "https://lh3.googleusercontent.com/-5u8NTyIwydc/YZUEdTz7BlI/AAAAAAAAsNo/xKtynKyBt3o6NvbQa2j3Iuo-jqb0e8B7wCLcBGAsYHQ/dragon_028.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+      },
+      {
+        "id": 29,
+        "name_category": "Nature",
+        "title": "Dragon_029",
+        "image": "file:///android_asset/view/dragon_029.png",
+        "skin": "https://lh3.googleusercontent.com/-Vn8MYaWLEtM/YZUEdmq1WvI/AAAAAAAAsNs/nE-w2ae6E7MllBBlMy36uHEVv3PYT6CXwCLcBGAsYHQ/dragon_029.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+      },
+      {
+        "id": 30,
+        "name_category": "Nature",
+        "title": "Dragon_030",
+        "image": "file:///android_asset/view/dragon_030.png",
+        "skin": "https://lh3.googleusercontent.com/-YMNRHUnQS3M/YZUEeLIobnI/AAAAAAAAsNw/Er0SX9yiQxEMIAqt_eLESXijdCr5sJ1vQCLcBGAsYHQ/dragon_030.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-3.mcpack"
+      },
+      {
+        "id": 31,
+        "name_category": "Nature",
+        "title": "Dragon_031",
+        "image": "file:///android_asset/view/dragon_031.png",
+        "skin": "https://lh3.googleusercontent.com/-YsQQQS3aT2k/YZUEes-uE8I/AAAAAAAAsN0/V6WsmsXNDu4F-3JoXKYAZBL3hoGT90aAwCLcBGAsYHQ/dragon_031.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+      },
+      {
+        "id": 32,
+        "name_category": "Nature",
+        "title": "Dragon_032",
+        "image": "file:///android_asset/view/dragon_032.png",
+        "skin": "https://lh3.googleusercontent.com/-yHL4FYVg45Q/YZUEe5n8PmI/AAAAAAAAsN4/bsdeC8hxybcfQBC_4sXMaL2EUghOs0nbQCLcBGAsYHQ/dragon_032.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+      },
+      {
+        "id": 33,
+        "name_category": "Nature",
+        "title": "Dragon_033",
+        "image": "file:///android_asset/view/dragon_033.png",
+        "skin": "https://lh3.googleusercontent.com/-kQVhOFJb0EU/YZUEfWOzuoI/AAAAAAAAsN8/yAZfOVbycwgad-NR8ionttHxvDKlroviACLcBGAsYHQ/dragon_033.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+      },
+      {
+        "id": 34,
+        "name_category": "Nature",
+        "title": "Dragon_034",
+        "image": "file:///android_asset/view/dragon_034.png",
+        "skin": "https://lh3.googleusercontent.com/-3-G5PhEdSrs/YZUEfpUA4NI/AAAAAAAAsOA/yZoHD9GFfuUJvtV181us4rW0RJLKvHAOQCLcBGAsYHQ/dragon_034.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+      },
+      {
+        "id": 35,
+        "name_category": "Nature",
+        "title": "Dragon_035",
+        "image": "file:///android_asset/view/dragon_035.png",
+        "skin": "https://lh3.googleusercontent.com/-wRBEJaYHk9c/YZUEgLh-WpI/AAAAAAAAsOE/8EEtgNGMClE-h3NRz6zhzg-R47fAncoUACLcBGAsYHQ/dragon_035.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+      },
+      {
+        "id": 36,
+        "name_category": "Nature",
+        "title": "Dragon_036",
+        "image": "file:///android_asset/view/dragon_036.png",
+        "skin": "https://lh3.googleusercontent.com/-dOims7qKsZ4/YZUEgPr7DEI/AAAAAAAAsOI/bJesfDL01Rk7tP06EwH4gA4E_g4GhNTGQCLcBGAsYHQ/dragon_036.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+      },
+      {
+        "id": 37,
+        "name_category": "Nature",
+        "title": "Dragon_037",
+        "image": "file:///android_asset/view/dragon_037.png",
+        "skin": "https://lh3.googleusercontent.com/-g8702Io8DQE/YZUEgoFR37I/AAAAAAAAsOM/WEeUoc7WftUq8s9ZC9umQz4Xmr6uVWatgCLcBGAsYHQ/dragon_037.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+      },
+      {
+        "id": 38,
+        "name_category": "Nature",
+        "title": "Dragon_038",
+        "image": "file:///android_asset/view/dragon_038.png",
+        "skin": "https://lh3.googleusercontent.com/-izGkrPouxlk/YZUEhMzy4UI/AAAAAAAAsOQ/8mBPcUZ9P6s9M3E4hEwgVoK-DsHZ0Pc4wCLcBGAsYHQ/dragon_038.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+      },
+      {
+        "id": 39,
+        "name_category": "Nature",
+        "title": "Dragon_039",
+        "image": "file:///android_asset/view/dragon_039.png",
+        "skin": "https://lh3.googleusercontent.com/-y58b6MjmIc4/YZUEhjbSXcI/AAAAAAAAsOY/rDfv_xGBNYIjr8pAGMwEPD8fsYYJWVC_wCLcBGAsYHQ/dragon_039.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+      },
+      {
+        "id": 40,
+        "name_category": "Nature",
+        "title": "Dragon_040",
+        "image": "file:///android_asset/view/dragon_040.png",
+        "skin": "https://lh3.googleusercontent.com/-svdxXtRgtSg/YZUEh2KtYqI/AAAAAAAAsOc/DxNu5T6NgfQzB8Z2rXqt4amBlaI_SpaLACLcBGAsYHQ/dragon_040.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-4.mcpack"
+      },
+      {
+        "id": 41,
+        "name_category": "Nature",
+        "title": "Dragon_041",
+        "image": "file:///android_asset/view/dragon_041.png",
+        "skin": "https://lh3.googleusercontent.com/-m5jUo2Dw2ak/YZUEipPG0_I/AAAAAAAAsOU/edfyLHJSsaw7GgKXTba_aiGLyqoAONrzgCLcBGAsYHQ/dragon_041.png",
+        "download": "https://bytebad.my.id/dev/nauralucha/skinfiles/akatsuki/mcpack/akatsuki-skin-pack-5.mcpack"
+      }
+    ]
   }
 ]
