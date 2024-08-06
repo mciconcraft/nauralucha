@@ -17,607 +17,605 @@
     }
   ],
   "Data": [
-    [
-      {
-        "id": 1,
-        "name_category": "Nature",
-        "title": "School001",
-        "image": "file:///android_asset/view/school_001.png",
-        "skin": "https://lh3.googleusercontent.com/-hj8Wyc462B8/YYE6shS0asI/AAAAAAAACWo/tD_iC7ZgICQZr2pYpDzw-iak7-ihi-FAACLcBGAsYHQ/school_001.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
-      },
-      {
-        "id": 2,
-        "name_category": "Nature",
-        "title": "School002",
-        "image": "file:///android_asset/view/school_002.png",
-        "skin": "https://lh3.googleusercontent.com/-EDUphnvMu40/YYE6svFe9uI/AAAAAAAACWs/uzC4LpaFyVYT5b-wFQbntGXX-ecrJyhQgCLcBGAsYHQ/school_002.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
-      },
-      {
-        "id": 3,
-        "name_category": "Nature",
-        "title": "School003",
-        "image": "file:///android_asset/view/school_003.png",
-        "skin": "https://lh3.googleusercontent.com/-RbXyk0YxQXQ/YYE6siZQKCI/AAAAAAAACWY/lG4jZO-iEIwDE5BcluF-KRDblDX0ONKQwCLcBGAsYHQ/school_003.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
-      },
-      {
-        "id": 4,
-        "name_category": "Nature",
-        "title": "School004",
-        "image": "file:///android_asset/view/school_004.png",
-        "skin": "https://lh3.googleusercontent.com/-Zd35H2CjnGA/YYE6sv2h1QI/AAAAAAAACWg/S7Q4qlFlPVQSfs511NdqT6hpXrMvf3B9ACLcBGAsYHQ/school_004.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
-      },
-      {
-        "id": 5,
-        "name_category": "Nature",
-        "title": "School005",
-        "image": "file:///android_asset/view/school_005.png",
-        "skin": "https://lh3.googleusercontent.com/-5bvOmWzFxpY/YYE6skTJbdI/AAAAAAAACWk/7wGB9lU6ZKUcPmEq-4cZOfZsOOEF0ugkQCLcBGAsYHQ/school_005.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
-      },
-      {
-        "id": 6,
-        "name_category": "Nature",
-        "title": "School006",
-        "image": "file:///android_asset/view/school_006.png",
-        "skin": "https://lh3.googleusercontent.com/-XESfwD6webQ/YYE6sir22XI/AAAAAAAACWc/9MLrtLllIh8KoLE7si6EvQanLP1uqIhtgCLcBGAsYHQ/school_006.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
-      },
-      {
-        "id": 7,
-        "name_category": "Nature",
-        "title": "School007",
-        "image": "file:///android_asset/view/school_007.png",
-        "skin": "https://lh3.googleusercontent.com/-4Ju5H2iX0ys/YYE6th2JHyI/AAAAAAAACWw/JT64iLC6xb8M9Vvz2aGPabEL7gpfIKcdQCLcBGAsYHQ/school_007.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
-      },
-      {
-        "id": 8,
-        "name_category": "Nature",
-        "title": "School008",
-        "image": "file:///android_asset/view/school_008.png",
-        "skin": "https://lh3.googleusercontent.com/-RjJpkiDQ8l0/YYE6t58zHuI/AAAAAAAACW0/TNHQJ0HA-HkJG9pfUO0lLT_KLubaIp1tACLcBGAsYHQ/school_008.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
-      },
-      {
-        "id": 9,
-        "name_category": "Nature",
-        "title": "School009",
-        "image": "file:///android_asset/view/school_009.png",
-        "skin": "https://lh3.googleusercontent.com/-YKR388OTqPY/YYE6uDbXs5I/AAAAAAAACW4/xHi7BvDos3Yu0WeDZSC0qmFDxRdSqAyUwCLcBGAsYHQ/school_009.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
-      },
-      {
-        "id": 10,
-        "name_category": "Nature",
-        "title": "School010",
-        "image": "file:///android_asset/view/school_010.png",
-        "skin": "https://lh3.googleusercontent.com/-470CjMJ5WlA/YYE6uWL1ujI/AAAAAAAACW8/LDnZLXYiC-UEHYh8u_DiuAw5IVFsEoGyQCLcBGAsYHQ/school_010.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
-      },
-      {
-        "id": 11,
-        "name_category": "Nature",
-        "title": "School011",
-        "image": "file:///android_asset/view/school_011.png",
-        "skin": "https://lh3.googleusercontent.com/-LqAwr2vmueY/YYE6uly1ecI/AAAAAAAACXA/D-04A5pJBbU6qQVp_6t5E1-CweNM8szcwCLcBGAsYHQ/school_011.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
-      },
-      {
-        "id": 12,
-        "name_category": "Nature",
-        "title": "School012",
-        "image": "file:///android_asset/view/school_012.png",
-        "skin": "https://lh3.googleusercontent.com/-W-47a4AGmok/YYE6u96fNNI/AAAAAAAACXE/wg4-qBZFPrAHrOoqE9jYRUXnBn_apWvKQCLcBGAsYHQ/school_012.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
-      },
-      {
-        "id": 13,
-        "name_category": "Nature",
-        "title": "School013",
-        "image": "file:///android_asset/view/school_013.png",
-        "skin": "https://lh3.googleusercontent.com/-_oBZagUSCCI/YYE6vUiuF0I/AAAAAAAACXI/p7YtngCV34gdDnsfqbxnZK_06_t7Rog_gCLcBGAsYHQ/school_013.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
-      },
-      {
-        "id": 14,
-        "name_category": "Nature",
-        "title": "School014",
-        "image": "file:///android_asset/view/school_014.png",
-        "skin": "https://lh3.googleusercontent.com/-sbSEjbrWHGo/YYE6vizBNII/AAAAAAAACXM/eDA5LDDP3xEXAwKzm26yApD7LrKDZkQ-QCLcBGAsYHQ/school_014.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
-      },
-      {
-        "id": 15,
-        "name_category": "Nature",
-        "title": "School015",
-        "image": "file:///android_asset/view/school_015.png",
-        "skin": "https://lh3.googleusercontent.com/-SDDjpGeLuaA/YYE6v_wsSQI/AAAAAAAACXQ/2XNjuHNl5esyS4ZVK_sHqTfoQpke3y83gCLcBGAsYHQ/school_015.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
-      },
-      {
-        "id": 16,
-        "name_category": "Nature",
-        "title": "School016",
-        "image": "file:///android_asset/view/school_016.png",
-        "skin": "https://lh3.googleusercontent.com/-dMWzEbuoEOI/YYE6wRhQNGI/AAAAAAAACXU/GQypOj8vnJgI44H_225Zl8-eqj93Jh5NACLcBGAsYHQ/school_016.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
-      },
-      {
-        "id": 17,
-        "name_category": "Nature",
-        "title": "School017",
-        "image": "file:///android_asset/view/school_017.png",
-        "skin": "https://lh3.googleusercontent.com/-Vc5rDdmBlW8/YYE6wqc8OaI/AAAAAAAACXY/PH_L1_KoPZIDwSZegmhTgUoaQDbta99ugCLcBGAsYHQ/school_017.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
-      },
-      {
-        "id": 18,
-        "name_category": "Nature",
-        "title": "School018",
-        "image": "file:///android_asset/view/school_018.png",
-        "skin": "https://lh3.googleusercontent.com/-A4bpp9gG64M/YYE6xPaqSMI/AAAAAAAACXc/QoPn4Z03L68E1RhMOvvi2ILHmh1f-nuagCLcBGAsYHQ/school_018.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
-      },
-      {
-        "id": 19,
-        "name_category": "Nature",
-        "title": "School019",
-        "image": "file:///android_asset/view/school_019.png",
-        "skin": "https://lh3.googleusercontent.com/-LJJ3GTu57ac/YYE6xdlRN7I/AAAAAAAACXg/7kA6y6gGueEkKGhl_sRDemJ-O78t6WRnACLcBGAsYHQ/school_019.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
-      },
-      {
-        "id": 20,
-        "name_category": "Nature",
-        "title": "School020",
-        "image": "file:///android_asset/view/school_020.png",
-        "skin": "https://lh3.googleusercontent.com/-dNfGiQrOP-4/YYE6xt-4cyI/AAAAAAAACXk/4HVOWK2ZSMIge16sFOIEJpPEMr_gG0r_wCLcBGAsYHQ/school_020.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
-      },
-      {
-        "id": 21,
-        "name_category": "Nature",
-        "title": "School021",
-        "image": "file:///android_asset/view/school_021.png",
-        "skin": "https://lh3.googleusercontent.com/-cBCkca8Ykqk/YYE6yBOaP9I/AAAAAAAACXo/E-iwlCwdA5o7UtbnonKT1hZFP0RMvc9oACLcBGAsYHQ/school_021.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
-      },
-      {
-        "id": 22,
-        "name_category": "Nature",
-        "title": "School022",
-        "image": "file:///android_asset/view/school_022.png",
-        "skin": "https://lh3.googleusercontent.com/-WT_ISv76NXM/YYE6yR2RnLI/AAAAAAAACXs/ZjmGuroJnaISi41WiuB0kw0_GR7gSbh3gCLcBGAsYHQ/school_022.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
-      },
-      {
-        "id": 23,
-        "name_category": "Nature",
-        "title": "School023",
-        "image": "file:///android_asset/view/school_023.png",
-        "skin": "https://lh3.googleusercontent.com/-jD4wxfiQ3mA/YYE6yjHsDQI/AAAAAAAACX0/n6jhTgnJYfsMH2C0H2xX-dMqsCjNHc0lQCLcBGAsYHQ/school_023.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
-      },
-      {
-        "id": 24,
-        "name_category": "Nature",
-        "title": "School024",
-        "image": "file:///android_asset/view/school_024.png",
-        "skin": "https://lh3.googleusercontent.com/-fxAzDDsJJqQ/YYE6y4F_gqI/AAAAAAAACXw/1saiCcmL0WwLZ0Vgt_lNjYY4Wj_UK2DPgCLcBGAsYHQ/school_024.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
-      },
-      {
-        "id": 25,
-        "name_category": "Nature",
-        "title": "School025",
-        "image": "file:///android_asset/view/school_025.png",
-        "skin": "https://lh3.googleusercontent.com/-MDtUMt0IQr4/YYE6zLCqC0I/AAAAAAAACX4/4zSrdZFfRf4M4FBTzx0PbQ_OuG65n2NtQCLcBGAsYHQ/school_025.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
-      },
-      {
-        "id": 26,
-        "name_category": "Nature",
-        "title": "School026",
-        "image": "file:///android_asset/view/school_026.png",
-        "skin": "https://lh3.googleusercontent.com/-DrEdNsKjTQg/YYE6zcjVl8I/AAAAAAAACX8/jVxtAJrtLsYjcP71CxL11XJ_kioiAzHuwCLcBGAsYHQ/school_026.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
-      },
-      {
-        "id": 27,
-        "name_category": "Nature",
-        "title": "School027",
-        "image": "file:///android_asset/view/school_027.png",
-        "skin": "https://lh3.googleusercontent.com/--15D_HFtYBQ/YYE6z4Az8fI/AAAAAAAACYA/CMVN-j6wT1QTDTia8duwAJLiYeCdPDKNQCLcBGAsYHQ/school_027.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
-      },
-      {
-        "id": 28,
-        "name_category": "Nature",
-        "title": "School028",
-        "image": "file:///android_asset/view/school_028.png",
-        "skin": "https://lh3.googleusercontent.com/-JtKk0xbrx6s/YYE60PjMqpI/AAAAAAAACYE/gmR6Seu2_FgBjC2mWYIuuz1kRkKsPGR-QCLcBGAsYHQ/school_028.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
-      },
-      {
-        "id": 29,
-        "name_category": "Nature",
-        "title": "School029",
-        "image": "file:///android_asset/view/school_029.png",
-        "skin": "https://lh3.googleusercontent.com/-3VeCNBwrh6E/YYE60kS9gFI/AAAAAAAACYI/9KjZm2ze4MA312f7MTysOT6pGFZ6u8MkwCLcBGAsYHQ/school_029.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
-      },
-      {
-        "id": 30,
-        "name_category": "Nature",
-        "title": "School030",
-        "image": "file:///android_asset/view/school_030.png",
-        "skin": "https://lh3.googleusercontent.com/-LEjZPOZ4cgs/YYE61I9KfzI/AAAAAAAACYM/jFbXPSw_94sv15BzUH4yGYKsDC2tnE7QACLcBGAsYHQ/school_030.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
-      },
-      {
-        "id": 31,
-        "name_category": "Nature",
-        "title": "School031",
-        "image": "file:///android_asset/view/school_031.png",
-        "skin": "https://lh3.googleusercontent.com/-MZz7m9NYdi4/YYE61d2u-PI/AAAAAAAACYQ/i8p6u9SZwd4aj0KrHQM8grW9g8fcJNzbQCLcBGAsYHQ/school_031.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
-      },
-      {
-        "id": 32,
-        "name_category": "Nature",
-        "title": "School032",
-        "image": "file:///android_asset/view/school_032.png",
-        "skin": "https://lh3.googleusercontent.com/-XcOd1nF28WQ/YYE61wE7GKI/AAAAAAAACYU/1Ky5IKKuMVkaLLI0DsWMER0O9dD6hIIiwCLcBGAsYHQ/school_032.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
-      },
-      {
-        "id": 33,
-        "name_category": "Nature",
-        "title": "School033",
-        "image": "file:///android_asset/view/school_033.png",
-        "skin": "https://lh3.googleusercontent.com/-k4M8830iwVI/YYE62JJqn9I/AAAAAAAACYc/Smf1OP3AlhMfVPcD2uCkJ3F8kn0hLUYQgCLcBGAsYHQ/school_033.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
-      },
-      {
-        "id": 34,
-        "name_category": "Nature",
-        "title": "School034",
-        "image": "file:///android_asset/view/school_034.png",
-        "skin": "https://lh3.googleusercontent.com/-LsXt9D-75Kc/YYE62nSQ7GI/AAAAAAAACYk/uRC4Oq3fLt0OFmVfYIR25MrwLSklVEJ6ACLcBGAsYHQ/school_034.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
-      },
-      {
-        "id": 35,
-        "name_category": "Nature",
-        "title": "School035",
-        "image": "file:///android_asset/view/school_035.png",
-        "skin": "https://lh3.googleusercontent.com/-F1opH7_Hk38/YYE63bWt6GI/AAAAAAAACYY/rMMcZNSAENscrC3jiMKM-w4Rx5bzt0d8wCLcBGAsYHQ/school_035.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
-      },
-      {
-        "id": 36,
-        "name_category": "Nature",
-        "title": "School036",
-        "image": "file:///android_asset/view/school_036.png",
-        "skin": "https://lh3.googleusercontent.com/-PKZiZvoqN5Q/YYE63j5vrYI/AAAAAAAACYg/pZbwl5V_hW0fgvWmo2E_8ayLmYM5g3wUQCLcBGAsYHQ/school_036.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
-      },
-      {
-        "id": 37,
-        "name_category": "Nature",
-        "title": "School037",
-        "image": "file:///android_asset/view/school_037.png",
-        "skin": "https://lh3.googleusercontent.com/-8CGCoYLrLoA/YYE636Vr5mI/AAAAAAAACYo/MAtWYOxbvGQw8xOUMim7aG3TqgM1xhRVQCLcBGAsYHQ/school_037.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
-      },
-      {
-        "id": 38,
-        "name_category": "Nature",
-        "title": "School038",
-        "image": "file:///android_asset/view/school_038.png",
-        "skin": "https://lh3.googleusercontent.com/-p1q62H-_Lzw/YYE64c0rp9I/AAAAAAAACYw/7J9-kC_AAk8euvqipp5iaWRTad7rZUFZwCLcBGAsYHQ/school_038.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
-      },
-      {
-        "id": 39,
-        "name_category": "Nature",
-        "title": "School039",
-        "image": "file:///android_asset/view/school_039.png",
-        "skin": "https://lh3.googleusercontent.com/-KGZRh_SpdXE/YYE64RONxLI/AAAAAAAACYs/KYvpylEu07QVBoQ66VkiOr3XvMf9ixZlACLcBGAsYHQ/school_039.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
-      },
-      {
-        "id": 40,
-        "name_category": "Nature",
-        "title": "School040",
-        "image": "file:///android_asset/view/school_040.png",
-        "skin": "https://lh3.googleusercontent.com/-dNMsE5tFObE/YYE65CbMaFI/AAAAAAAACY4/Z79ZIRJCMaQQerEepy7OWI2Bj1IksoOHACLcBGAsYHQ/school_040.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
-      },
-      {
-        "id": 41,
-        "name_category": "Nature",
-        "title": "School041",
-        "image": "file:///android_asset/view/school_041.png",
-        "skin": "https://lh3.googleusercontent.com/-X4-vAROE-8I/YYE65OmTLpI/AAAAAAAACY0/5ZwcpsLj2gA2HN-gEJ9lGwpt3sXpOu61gCLcBGAsYHQ/school_041.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
-      },
-      {
-        "id": 42,
-        "name_category": "Nature",
-        "title": "School042",
-        "image": "file:///android_asset/view/school_042.png",
-        "skin": "https://lh3.googleusercontent.com/-8E2tl-C6Wyk/YYE65K2pD6I/AAAAAAAACY8/H0sQkafC0ekbb8c94PajFgEwJEB8GH78wCLcBGAsYHQ/school_042.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
-      },
-      {
-        "id": 43,
-        "name_category": "Nature",
-        "title": "School043",
-        "image": "file:///android_asset/view/school_043.png",
-        "skin": "https://lh3.googleusercontent.com/-WtFubbCbjvA/YYE65TvQWYI/AAAAAAAACZA/u2_BR0Zrjy8Fvi8cdsVwG_bQgVHmCd0AgCLcBGAsYHQ/school_043.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
-      },
-      {
-        "id": 44,
-        "name_category": "Nature",
-        "title": "School044",
-        "image": "file:///android_asset/view/school_044.png",
-        "skin": "https://lh3.googleusercontent.com/-eugts7Ty5mQ/YYE65QbGSlI/AAAAAAAACZE/HXLKot16TtgBF7Uur-ATJw4mjxN6IU-_ACLcBGAsYHQ/school_044.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
-      },
-      {
-        "id": 45,
-        "name_category": "Nature",
-        "title": "School045",
-        "image": "file:///android_asset/view/school_045.png",
-        "skin": "https://lh3.googleusercontent.com/-dyvv1kkjjRc/YYE6574QgrI/AAAAAAAACZI/HGxa7yGaci0bYN_vuhtA8aqwggtiN0QjACLcBGAsYHQ/school_045.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
-      },
-      {
-        "id": 46,
-        "name_category": "Nature",
-        "title": "School046",
-        "image": "file:///android_asset/view/school_046.png",
-        "skin": "https://lh3.googleusercontent.com/-JjWzd2nL7Ds/YYE66A8QoTI/AAAAAAAACZM/4C0WaoziadcYKfqH_yP13z-f5pZ_hFyBwCLcBGAsYHQ/school_046.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
-      },
-      {
-        "id": 47,
-        "name_category": "Nature",
-        "title": "School047",
-        "image": "file:///android_asset/view/school_047.png",
-        "skin": "https://lh3.googleusercontent.com/-DKHQs0GiaXg/YYE66nllLUI/AAAAAAAACZQ/rg0OX7KzBXM9Np_WHrPoE81v087b2jT1wCLcBGAsYHQ/school_047.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
-      },
-      {
-        "id": 48,
-        "name_category": "Nature",
-        "title": "School048",
-        "image": "file:///android_asset/view/school_048.png",
-        "skin": "https://lh3.googleusercontent.com/-vF93W-meHf4/YYE66T2zkwI/AAAAAAAACZc/CfqayH6vHCMnslizADAw3d7I1h6lcZ9eQCLcBGAsYHQ/school_048.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
-      },
-      {
-        "id": 49,
-        "name_category": "Nature",
-        "title": "School049",
-        "image": "file:///android_asset/view/school_049.png",
-        "skin": "https://lh3.googleusercontent.com/-Z7oF8GwuVi0/YYE66rGcNCI/AAAAAAAACZU/JaD9KmC20FQV-o_8V5oxt9d30Ki-0mjbgCLcBGAsYHQ/school_049.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
-      },
-      {
-        "id": 50,
-        "name_category": "Nature",
-        "title": "School050",
-        "image": "file:///android_asset/view/school_050.png",
-        "skin": "https://lh3.googleusercontent.com/-PnXOy1tFTjY/YYE66mZSwJI/AAAAAAAACZg/27IxH4RYv3sIvfAvv86W1J9EW6wRStEowCLcBGAsYHQ/school_050.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
-      },
-      {
-        "id": 51,
-        "name_category": "Nature",
-        "title": "School051",
-        "image": "file:///android_asset/view/school_051.png",
-        "skin": "https://lh3.googleusercontent.com/-pXmKSM8FXNk/YYE66q8L2LI/AAAAAAAACZY/zGwxErSkSPcxfY-hqVtQZhJju8H22ZkoQCLcBGAsYHQ/school_051.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
-      },
-      {
-        "id": 52,
-        "name_category": "Nature",
-        "title": "School052",
-        "image": "file:///android_asset/view/school_052.png",
-        "skin": "https://lh3.googleusercontent.com/-Mx6TLbkzPd4/YYE66zeI9UI/AAAAAAAACZk/Xz983K0RDhk09-ghnCRWVaeaPPAraNhggCLcBGAsYHQ/school_052.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
-      },
-      {
-        "id": 53,
-        "name_category": "Nature",
-        "title": "School053",
-        "image": "file:///android_asset/view/school_053.png",
-        "skin": "https://lh3.googleusercontent.com/-Kh-tw6XmBSk/YYE67usxv-I/AAAAAAAACZs/j6cYOF3BzlUD_5yaWib0FFUNXz8jWpGcQCLcBGAsYHQ/school_053.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
-      },
-      {
-        "id": 54,
-        "name_category": "Nature",
-        "title": "School054",
-        "image": "file:///android_asset/view/school_054.png",
-        "skin": "https://lh3.googleusercontent.com/-RPAwYSemKeY/YYE67Ut1FcI/AAAAAAAACZo/LoiGUqPfJ5MCQeBAVBeZqFG3XHjfmkPRwCLcBGAsYHQ/school_054.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
-      },
-      {
-        "id": 55,
-        "name_category": "Nature",
-        "title": "School055",
-        "image": "file:///android_asset/view/school_055.png",
-        "skin": "https://lh3.googleusercontent.com/-SuieQZBTFLE/YYE676ufFqI/AAAAAAAACZw/hKWBpbamKS0z6Ds1SvJJ8waXxliBvCZmQCLcBGAsYHQ/school_055.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
-      },
-      {
-        "id": 56,
-        "name_category": "Nature",
-        "title": "School056",
-        "image": "file:///android_asset/view/school_056.png",
-        "skin": "https://lh3.googleusercontent.com/-DcitIPvXWWk/YYE68ZVNrDI/AAAAAAAACZ0/V2bxaIqHSE4205wRqf-Y-etema4R6-5AgCLcBGAsYHQ/school_056.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
-      },
-      {
-        "id": 57,
-        "name_category": "Nature",
-        "title": "School057",
-        "image": "file:///android_asset/view/school_057.png",
-        "skin": "https://lh3.googleusercontent.com/-0pv9IdoyqPo/YYE688AXuoI/AAAAAAAACZ4/zgrhWIxeOscV8aMuhH-uoVm2i_qduZVFwCLcBGAsYHQ/school_057.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
-      },
-      {
-        "id": 58,
-        "name_category": "Nature",
-        "title": "School058",
-        "image": "file:///android_asset/view/school_058.png",
-        "skin": "https://lh3.googleusercontent.com/-OFrZnCTptWs/YYE69AxAKYI/AAAAAAAACZ8/wvW3mMMTWI4sO0_ffAaoltbpqydmBj-wwCLcBGAsYHQ/school_058.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
-      },
-      {
-        "id": 59,
-        "name_category": "Nature",
-        "title": "School059",
-        "image": "file:///android_asset/view/school_059.png",
-        "skin": "https://lh3.googleusercontent.com/-kINlaBsMI50/YYE69R-XnbI/AAAAAAAACaA/83s26d0FD5IyUo0jELC8d3EerW91vetXwCLcBGAsYHQ/school_059.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
-      },
-      {
-        "id": 60,
-        "name_category": "Nature",
-        "title": "School060",
-        "image": "file:///android_asset/view/school_060.png",
-        "skin": "https://lh3.googleusercontent.com/-ucej23O-kfM/YYE69nZUFcI/AAAAAAAACaE/ziNOV1jAMJ89_watz00hReNpQ12u_7MogCLcBGAsYHQ/school_060.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
-      },
-      {
-        "id": 61,
-        "name_category": "Nature",
-        "title": "School061",
-        "image": "file:///android_asset/view/school_061.png",
-        "skin": "https://lh3.googleusercontent.com/-xGfTuFQZ1U8/YYE696Q-odI/AAAAAAAACaI/Q67Ikk4rGoYA-m2nVf8zKxduXXWzzJPcACLcBGAsYHQ/school_061.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
-      },
-      {
-        "id": 62,
-        "name_category": "Nature",
-        "title": "School062",
-        "image": "file:///android_asset/view/school_062.png",
-        "skin": "https://lh3.googleusercontent.com/-wR9-BavbnGY/YYE6-m5RhqI/AAAAAAAACaM/X-X8M_WrsG0fTBnjZpc_R-jUQt6ADiH1ACLcBGAsYHQ/school_062.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
-      },
-      {
-        "id": 63,
-        "name_category": "Nature",
-        "title": "School063",
-        "image": "file:///android_asset/view/school_063.png",
-        "skin": "https://lh3.googleusercontent.com/-7SpuVUBI1Vg/YYE6-2w_NWI/AAAAAAAACaQ/77FOvWdNAyMo756YzKmV7U-zbDq08tdOACLcBGAsYHQ/school_063.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
-      },
-      {
-        "id": 64,
-        "name_category": "Nature",
-        "title": "School064",
-        "image": "file:///android_asset/view/school_064.png",
-        "skin": "https://lh3.googleusercontent.com/-4wqomILTbgc/YYE6_boUh4I/AAAAAAAACaU/wicb1Bfuv7wy8BF0gRkwVmyj-b7qGq4hwCLcBGAsYHQ/school_064.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
-      },
-      {
-        "id": 65,
-        "name_category": "Nature",
-        "title": "School065",
-        "image": "file:///android_asset/view/school_065.png",
-        "skin": "https://lh3.googleusercontent.com/-ebZlBI1gCAQ/YYE6_93gylI/AAAAAAAACaY/i72exQCOHa8csTI7xi4qv4DBIDsQ8c44ACLcBGAsYHQ/school_065.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
-      },
-      {
-        "id": 66,
-        "name_category": "Nature",
-        "title": "School066",
-        "image": "file:///android_asset/view/school_066.png",
-        "skin": "https://lh3.googleusercontent.com/-aKrxn75ceBU/YYE6_z2LxAI/AAAAAAAACac/xlSi6-9-M9g09nEGD2PYZndZlgTTWi_HwCLcBGAsYHQ/school_066.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
-      },
-      {
-        "id": 67,
-        "name_category": "Nature",
-        "title": "School067",
-        "image": "file:///android_asset/view/school_067.png",
-        "skin": "https://lh3.googleusercontent.com/-VCSPecXoKa8/YYE7ArIBFAI/AAAAAAAACag/vaftBA2JfXc7ty43GBOYBOW2WWs9ypFfwCLcBGAsYHQ/school_067.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
-      },
-      {
-        "id": 68,
-        "name_category": "Nature",
-        "title": "School068",
-        "image": "file:///android_asset/view/school_068.png",
-        "skin": "https://lh3.googleusercontent.com/-ANLRrIRoz1A/YYE7AxZa1CI/AAAAAAAACak/4VC9U6VHebYnIOK5h6wUBZC3rvDv5R08wCLcBGAsYHQ/school_068.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
-      },
-      {
-        "id": 69,
-        "name_category": "Nature",
-        "title": "School069",
-        "image": "file:///android_asset/view/school_069.png",
-        "skin": "https://lh3.googleusercontent.com/-TbHws_7OK7c/YYE7BbS_AUI/AAAAAAAACao/eM6LoWM22gQUfMGMODYyLtf35JKOEF40ACLcBGAsYHQ/school_069.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
-      },
-      {
-        "id": 70,
-        "name_category": "Nature",
-        "title": "School070",
-        "image": "file:///android_asset/view/school_070.png",
-        "skin": "https://lh3.googleusercontent.com/-HT2HLGQky6I/YYE7B9-Bf7I/AAAAAAAACas/9ZBI6z4RjvgsDUnWVSX1dKmrIbNDpTW9QCLcBGAsYHQ/school_070.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
-      },
-      {
-        "id": 71,
-        "name_category": "Nature",
-        "title": "School071",
-        "image": "file:///android_asset/view/school_071.png",
-        "skin": "https://lh3.googleusercontent.com/-MgAcWxX0UKY/YYE7CKuS92I/AAAAAAAACaw/98NB3d5RQQI8uZboYaBmNvs1mureE5WTwCLcBGAsYHQ/school_071.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-8.mcpack"
-      },
-      {
-        "id": 72,
-        "name_category": "Nature",
-        "title": "School072",
-        "image": "file:///android_asset/view/school_072.png",
-        "skin": "https://lh3.googleusercontent.com/-l-vDhRYJNXE/YYE7CpxwfhI/AAAAAAAACa0/qLEGOXoyvKwYuu_oSsM1El9GLpAIAwbGQCLcBGAsYHQ/school_072.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-8.mcpack"
-      },
-      {
-        "id": 73,
-        "name_category": "Nature",
-        "title": "School073",
-        "image": "file:///android_asset/view/school_073.png",
-        "skin": "https://lh3.googleusercontent.com/-PzvkYBdoa_8/YYE7C_pz_rI/AAAAAAAACa4/LlqFzmRuufYg-R4c2hzAwslftc-Lvp06gCLcBGAsYHQ/school_073.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-8.mcpack"
-      },
-      {
-        "id": 74,
-        "name_category": "Nature",
-        "title": "School074",
-        "image": "file:///android_asset/view/school_074.png",
-        "skin": "https://lh3.googleusercontent.com/-By6YSWn2XXU/YYE7DKTIFGI/AAAAAAAACa8/MRy-wcNam900j5Y5YYSdeqWOOeqJHHnTgCLcBGAsYHQ/school_074.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-8.mcpack"
-      },
-      {
-        "id": 75,
-        "name_category": "Nature",
-        "title": "School075",
-        "image": "file:///android_asset/view/school_075.png",
-        "skin": "https://lh3.googleusercontent.com/-kuAFc8j3JaI/YYE7Dp3l5II/AAAAAAAACbA/Tnv1lekZ8uQ1trdZ0Ibhek8wRCAnzLkLACLcBGAsYHQ/school_075.png",
-        "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-8.mcpack"
-      }
-    ]
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "title": "School001",
+      "image": "file:///android_asset/view/school_001.png",
+      "skin": "https://lh3.googleusercontent.com/-hj8Wyc462B8/YYE6shS0asI/AAAAAAAACWo/tD_iC7ZgICQZr2pYpDzw-iak7-ihi-FAACLcBGAsYHQ/school_001.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
+    },
+    {
+      "id": 2,
+      "name_category": "Nature",
+      "title": "School002",
+      "image": "file:///android_asset/view/school_002.png",
+      "skin": "https://lh3.googleusercontent.com/-EDUphnvMu40/YYE6svFe9uI/AAAAAAAACWs/uzC4LpaFyVYT5b-wFQbntGXX-ecrJyhQgCLcBGAsYHQ/school_002.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
+    },
+    {
+      "id": 3,
+      "name_category": "Nature",
+      "title": "School003",
+      "image": "file:///android_asset/view/school_003.png",
+      "skin": "https://lh3.googleusercontent.com/-RbXyk0YxQXQ/YYE6siZQKCI/AAAAAAAACWY/lG4jZO-iEIwDE5BcluF-KRDblDX0ONKQwCLcBGAsYHQ/school_003.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
+    },
+    {
+      "id": 4,
+      "name_category": "Nature",
+      "title": "School004",
+      "image": "file:///android_asset/view/school_004.png",
+      "skin": "https://lh3.googleusercontent.com/-Zd35H2CjnGA/YYE6sv2h1QI/AAAAAAAACWg/S7Q4qlFlPVQSfs511NdqT6hpXrMvf3B9ACLcBGAsYHQ/school_004.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
+    },
+    {
+      "id": 5,
+      "name_category": "Nature",
+      "title": "School005",
+      "image": "file:///android_asset/view/school_005.png",
+      "skin": "https://lh3.googleusercontent.com/-5bvOmWzFxpY/YYE6skTJbdI/AAAAAAAACWk/7wGB9lU6ZKUcPmEq-4cZOfZsOOEF0ugkQCLcBGAsYHQ/school_005.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
+    },
+    {
+      "id": 6,
+      "name_category": "Nature",
+      "title": "School006",
+      "image": "file:///android_asset/view/school_006.png",
+      "skin": "https://lh3.googleusercontent.com/-XESfwD6webQ/YYE6sir22XI/AAAAAAAACWc/9MLrtLllIh8KoLE7si6EvQanLP1uqIhtgCLcBGAsYHQ/school_006.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
+    },
+    {
+      "id": 7,
+      "name_category": "Nature",
+      "title": "School007",
+      "image": "file:///android_asset/view/school_007.png",
+      "skin": "https://lh3.googleusercontent.com/-4Ju5H2iX0ys/YYE6th2JHyI/AAAAAAAACWw/JT64iLC6xb8M9Vvz2aGPabEL7gpfIKcdQCLcBGAsYHQ/school_007.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
+    },
+    {
+      "id": 8,
+      "name_category": "Nature",
+      "title": "School008",
+      "image": "file:///android_asset/view/school_008.png",
+      "skin": "https://lh3.googleusercontent.com/-RjJpkiDQ8l0/YYE6t58zHuI/AAAAAAAACW0/TNHQJ0HA-HkJG9pfUO0lLT_KLubaIp1tACLcBGAsYHQ/school_008.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
+    },
+    {
+      "id": 9,
+      "name_category": "Nature",
+      "title": "School009",
+      "image": "file:///android_asset/view/school_009.png",
+      "skin": "https://lh3.googleusercontent.com/-YKR388OTqPY/YYE6uDbXs5I/AAAAAAAACW4/xHi7BvDos3Yu0WeDZSC0qmFDxRdSqAyUwCLcBGAsYHQ/school_009.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
+    },
+    {
+      "id": 10,
+      "name_category": "Nature",
+      "title": "School010",
+      "image": "file:///android_asset/view/school_010.png",
+      "skin": "https://lh3.googleusercontent.com/-470CjMJ5WlA/YYE6uWL1ujI/AAAAAAAACW8/LDnZLXYiC-UEHYh8u_DiuAw5IVFsEoGyQCLcBGAsYHQ/school_010.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-1.mcpack"
+    },
+    {
+      "id": 11,
+      "name_category": "Nature",
+      "title": "School011",
+      "image": "file:///android_asset/view/school_011.png",
+      "skin": "https://lh3.googleusercontent.com/-LqAwr2vmueY/YYE6uly1ecI/AAAAAAAACXA/D-04A5pJBbU6qQVp_6t5E1-CweNM8szcwCLcBGAsYHQ/school_011.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
+    },
+    {
+      "id": 12,
+      "name_category": "Nature",
+      "title": "School012",
+      "image": "file:///android_asset/view/school_012.png",
+      "skin": "https://lh3.googleusercontent.com/-W-47a4AGmok/YYE6u96fNNI/AAAAAAAACXE/wg4-qBZFPrAHrOoqE9jYRUXnBn_apWvKQCLcBGAsYHQ/school_012.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
+    },
+    {
+      "id": 13,
+      "name_category": "Nature",
+      "title": "School013",
+      "image": "file:///android_asset/view/school_013.png",
+      "skin": "https://lh3.googleusercontent.com/-_oBZagUSCCI/YYE6vUiuF0I/AAAAAAAACXI/p7YtngCV34gdDnsfqbxnZK_06_t7Rog_gCLcBGAsYHQ/school_013.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
+    },
+    {
+      "id": 14,
+      "name_category": "Nature",
+      "title": "School014",
+      "image": "file:///android_asset/view/school_014.png",
+      "skin": "https://lh3.googleusercontent.com/-sbSEjbrWHGo/YYE6vizBNII/AAAAAAAACXM/eDA5LDDP3xEXAwKzm26yApD7LrKDZkQ-QCLcBGAsYHQ/school_014.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
+    },
+    {
+      "id": 15,
+      "name_category": "Nature",
+      "title": "School015",
+      "image": "file:///android_asset/view/school_015.png",
+      "skin": "https://lh3.googleusercontent.com/-SDDjpGeLuaA/YYE6v_wsSQI/AAAAAAAACXQ/2XNjuHNl5esyS4ZVK_sHqTfoQpke3y83gCLcBGAsYHQ/school_015.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
+    },
+    {
+      "id": 16,
+      "name_category": "Nature",
+      "title": "School016",
+      "image": "file:///android_asset/view/school_016.png",
+      "skin": "https://lh3.googleusercontent.com/-dMWzEbuoEOI/YYE6wRhQNGI/AAAAAAAACXU/GQypOj8vnJgI44H_225Zl8-eqj93Jh5NACLcBGAsYHQ/school_016.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
+    },
+    {
+      "id": 17,
+      "name_category": "Nature",
+      "title": "School017",
+      "image": "file:///android_asset/view/school_017.png",
+      "skin": "https://lh3.googleusercontent.com/-Vc5rDdmBlW8/YYE6wqc8OaI/AAAAAAAACXY/PH_L1_KoPZIDwSZegmhTgUoaQDbta99ugCLcBGAsYHQ/school_017.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
+    },
+    {
+      "id": 18,
+      "name_category": "Nature",
+      "title": "School018",
+      "image": "file:///android_asset/view/school_018.png",
+      "skin": "https://lh3.googleusercontent.com/-A4bpp9gG64M/YYE6xPaqSMI/AAAAAAAACXc/QoPn4Z03L68E1RhMOvvi2ILHmh1f-nuagCLcBGAsYHQ/school_018.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
+    },
+    {
+      "id": 19,
+      "name_category": "Nature",
+      "title": "School019",
+      "image": "file:///android_asset/view/school_019.png",
+      "skin": "https://lh3.googleusercontent.com/-LJJ3GTu57ac/YYE6xdlRN7I/AAAAAAAACXg/7kA6y6gGueEkKGhl_sRDemJ-O78t6WRnACLcBGAsYHQ/school_019.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
+    },
+    {
+      "id": 20,
+      "name_category": "Nature",
+      "title": "School020",
+      "image": "file:///android_asset/view/school_020.png",
+      "skin": "https://lh3.googleusercontent.com/-dNfGiQrOP-4/YYE6xt-4cyI/AAAAAAAACXk/4HVOWK2ZSMIge16sFOIEJpPEMr_gG0r_wCLcBGAsYHQ/school_020.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-2.mcpack"
+    },
+    {
+      "id": 21,
+      "name_category": "Nature",
+      "title": "School021",
+      "image": "file:///android_asset/view/school_021.png",
+      "skin": "https://lh3.googleusercontent.com/-cBCkca8Ykqk/YYE6yBOaP9I/AAAAAAAACXo/E-iwlCwdA5o7UtbnonKT1hZFP0RMvc9oACLcBGAsYHQ/school_021.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
+    },
+    {
+      "id": 22,
+      "name_category": "Nature",
+      "title": "School022",
+      "image": "file:///android_asset/view/school_022.png",
+      "skin": "https://lh3.googleusercontent.com/-WT_ISv76NXM/YYE6yR2RnLI/AAAAAAAACXs/ZjmGuroJnaISi41WiuB0kw0_GR7gSbh3gCLcBGAsYHQ/school_022.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
+    },
+    {
+      "id": 23,
+      "name_category": "Nature",
+      "title": "School023",
+      "image": "file:///android_asset/view/school_023.png",
+      "skin": "https://lh3.googleusercontent.com/-jD4wxfiQ3mA/YYE6yjHsDQI/AAAAAAAACX0/n6jhTgnJYfsMH2C0H2xX-dMqsCjNHc0lQCLcBGAsYHQ/school_023.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
+    },
+    {
+      "id": 24,
+      "name_category": "Nature",
+      "title": "School024",
+      "image": "file:///android_asset/view/school_024.png",
+      "skin": "https://lh3.googleusercontent.com/-fxAzDDsJJqQ/YYE6y4F_gqI/AAAAAAAACXw/1saiCcmL0WwLZ0Vgt_lNjYY4Wj_UK2DPgCLcBGAsYHQ/school_024.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
+    },
+    {
+      "id": 25,
+      "name_category": "Nature",
+      "title": "School025",
+      "image": "file:///android_asset/view/school_025.png",
+      "skin": "https://lh3.googleusercontent.com/-MDtUMt0IQr4/YYE6zLCqC0I/AAAAAAAACX4/4zSrdZFfRf4M4FBTzx0PbQ_OuG65n2NtQCLcBGAsYHQ/school_025.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
+    },
+    {
+      "id": 26,
+      "name_category": "Nature",
+      "title": "School026",
+      "image": "file:///android_asset/view/school_026.png",
+      "skin": "https://lh3.googleusercontent.com/-DrEdNsKjTQg/YYE6zcjVl8I/AAAAAAAACX8/jVxtAJrtLsYjcP71CxL11XJ_kioiAzHuwCLcBGAsYHQ/school_026.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
+    },
+    {
+      "id": 27,
+      "name_category": "Nature",
+      "title": "School027",
+      "image": "file:///android_asset/view/school_027.png",
+      "skin": "https://lh3.googleusercontent.com/--15D_HFtYBQ/YYE6z4Az8fI/AAAAAAAACYA/CMVN-j6wT1QTDTia8duwAJLiYeCdPDKNQCLcBGAsYHQ/school_027.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
+    },
+    {
+      "id": 28,
+      "name_category": "Nature",
+      "title": "School028",
+      "image": "file:///android_asset/view/school_028.png",
+      "skin": "https://lh3.googleusercontent.com/-JtKk0xbrx6s/YYE60PjMqpI/AAAAAAAACYE/gmR6Seu2_FgBjC2mWYIuuz1kRkKsPGR-QCLcBGAsYHQ/school_028.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
+    },
+    {
+      "id": 29,
+      "name_category": "Nature",
+      "title": "School029",
+      "image": "file:///android_asset/view/school_029.png",
+      "skin": "https://lh3.googleusercontent.com/-3VeCNBwrh6E/YYE60kS9gFI/AAAAAAAACYI/9KjZm2ze4MA312f7MTysOT6pGFZ6u8MkwCLcBGAsYHQ/school_029.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
+    },
+    {
+      "id": 30,
+      "name_category": "Nature",
+      "title": "School030",
+      "image": "file:///android_asset/view/school_030.png",
+      "skin": "https://lh3.googleusercontent.com/-LEjZPOZ4cgs/YYE61I9KfzI/AAAAAAAACYM/jFbXPSw_94sv15BzUH4yGYKsDC2tnE7QACLcBGAsYHQ/school_030.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-3.mcpack"
+    },
+    {
+      "id": 31,
+      "name_category": "Nature",
+      "title": "School031",
+      "image": "file:///android_asset/view/school_031.png",
+      "skin": "https://lh3.googleusercontent.com/-MZz7m9NYdi4/YYE61d2u-PI/AAAAAAAACYQ/i8p6u9SZwd4aj0KrHQM8grW9g8fcJNzbQCLcBGAsYHQ/school_031.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
+    },
+    {
+      "id": 32,
+      "name_category": "Nature",
+      "title": "School032",
+      "image": "file:///android_asset/view/school_032.png",
+      "skin": "https://lh3.googleusercontent.com/-XcOd1nF28WQ/YYE61wE7GKI/AAAAAAAACYU/1Ky5IKKuMVkaLLI0DsWMER0O9dD6hIIiwCLcBGAsYHQ/school_032.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
+    },
+    {
+      "id": 33,
+      "name_category": "Nature",
+      "title": "School033",
+      "image": "file:///android_asset/view/school_033.png",
+      "skin": "https://lh3.googleusercontent.com/-k4M8830iwVI/YYE62JJqn9I/AAAAAAAACYc/Smf1OP3AlhMfVPcD2uCkJ3F8kn0hLUYQgCLcBGAsYHQ/school_033.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
+    },
+    {
+      "id": 34,
+      "name_category": "Nature",
+      "title": "School034",
+      "image": "file:///android_asset/view/school_034.png",
+      "skin": "https://lh3.googleusercontent.com/-LsXt9D-75Kc/YYE62nSQ7GI/AAAAAAAACYk/uRC4Oq3fLt0OFmVfYIR25MrwLSklVEJ6ACLcBGAsYHQ/school_034.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
+    },
+    {
+      "id": 35,
+      "name_category": "Nature",
+      "title": "School035",
+      "image": "file:///android_asset/view/school_035.png",
+      "skin": "https://lh3.googleusercontent.com/-F1opH7_Hk38/YYE63bWt6GI/AAAAAAAACYY/rMMcZNSAENscrC3jiMKM-w4Rx5bzt0d8wCLcBGAsYHQ/school_035.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
+    },
+    {
+      "id": 36,
+      "name_category": "Nature",
+      "title": "School036",
+      "image": "file:///android_asset/view/school_036.png",
+      "skin": "https://lh3.googleusercontent.com/-PKZiZvoqN5Q/YYE63j5vrYI/AAAAAAAACYg/pZbwl5V_hW0fgvWmo2E_8ayLmYM5g3wUQCLcBGAsYHQ/school_036.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
+    },
+    {
+      "id": 37,
+      "name_category": "Nature",
+      "title": "School037",
+      "image": "file:///android_asset/view/school_037.png",
+      "skin": "https://lh3.googleusercontent.com/-8CGCoYLrLoA/YYE636Vr5mI/AAAAAAAACYo/MAtWYOxbvGQw8xOUMim7aG3TqgM1xhRVQCLcBGAsYHQ/school_037.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
+    },
+    {
+      "id": 38,
+      "name_category": "Nature",
+      "title": "School038",
+      "image": "file:///android_asset/view/school_038.png",
+      "skin": "https://lh3.googleusercontent.com/-p1q62H-_Lzw/YYE64c0rp9I/AAAAAAAACYw/7J9-kC_AAk8euvqipp5iaWRTad7rZUFZwCLcBGAsYHQ/school_038.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
+    },
+    {
+      "id": 39,
+      "name_category": "Nature",
+      "title": "School039",
+      "image": "file:///android_asset/view/school_039.png",
+      "skin": "https://lh3.googleusercontent.com/-KGZRh_SpdXE/YYE64RONxLI/AAAAAAAACYs/KYvpylEu07QVBoQ66VkiOr3XvMf9ixZlACLcBGAsYHQ/school_039.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
+    },
+    {
+      "id": 40,
+      "name_category": "Nature",
+      "title": "School040",
+      "image": "file:///android_asset/view/school_040.png",
+      "skin": "https://lh3.googleusercontent.com/-dNMsE5tFObE/YYE65CbMaFI/AAAAAAAACY4/Z79ZIRJCMaQQerEepy7OWI2Bj1IksoOHACLcBGAsYHQ/school_040.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-4.mcpack"
+    },
+    {
+      "id": 41,
+      "name_category": "Nature",
+      "title": "School041",
+      "image": "file:///android_asset/view/school_041.png",
+      "skin": "https://lh3.googleusercontent.com/-X4-vAROE-8I/YYE65OmTLpI/AAAAAAAACY0/5ZwcpsLj2gA2HN-gEJ9lGwpt3sXpOu61gCLcBGAsYHQ/school_041.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
+    },
+    {
+      "id": 42,
+      "name_category": "Nature",
+      "title": "School042",
+      "image": "file:///android_asset/view/school_042.png",
+      "skin": "https://lh3.googleusercontent.com/-8E2tl-C6Wyk/YYE65K2pD6I/AAAAAAAACY8/H0sQkafC0ekbb8c94PajFgEwJEB8GH78wCLcBGAsYHQ/school_042.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
+    },
+    {
+      "id": 43,
+      "name_category": "Nature",
+      "title": "School043",
+      "image": "file:///android_asset/view/school_043.png",
+      "skin": "https://lh3.googleusercontent.com/-WtFubbCbjvA/YYE65TvQWYI/AAAAAAAACZA/u2_BR0Zrjy8Fvi8cdsVwG_bQgVHmCd0AgCLcBGAsYHQ/school_043.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
+    },
+    {
+      "id": 44,
+      "name_category": "Nature",
+      "title": "School044",
+      "image": "file:///android_asset/view/school_044.png",
+      "skin": "https://lh3.googleusercontent.com/-eugts7Ty5mQ/YYE65QbGSlI/AAAAAAAACZE/HXLKot16TtgBF7Uur-ATJw4mjxN6IU-_ACLcBGAsYHQ/school_044.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
+    },
+    {
+      "id": 45,
+      "name_category": "Nature",
+      "title": "School045",
+      "image": "file:///android_asset/view/school_045.png",
+      "skin": "https://lh3.googleusercontent.com/-dyvv1kkjjRc/YYE6574QgrI/AAAAAAAACZI/HGxa7yGaci0bYN_vuhtA8aqwggtiN0QjACLcBGAsYHQ/school_045.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
+    },
+    {
+      "id": 46,
+      "name_category": "Nature",
+      "title": "School046",
+      "image": "file:///android_asset/view/school_046.png",
+      "skin": "https://lh3.googleusercontent.com/-JjWzd2nL7Ds/YYE66A8QoTI/AAAAAAAACZM/4C0WaoziadcYKfqH_yP13z-f5pZ_hFyBwCLcBGAsYHQ/school_046.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
+    },
+    {
+      "id": 47,
+      "name_category": "Nature",
+      "title": "School047",
+      "image": "file:///android_asset/view/school_047.png",
+      "skin": "https://lh3.googleusercontent.com/-DKHQs0GiaXg/YYE66nllLUI/AAAAAAAACZQ/rg0OX7KzBXM9Np_WHrPoE81v087b2jT1wCLcBGAsYHQ/school_047.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
+    },
+    {
+      "id": 48,
+      "name_category": "Nature",
+      "title": "School048",
+      "image": "file:///android_asset/view/school_048.png",
+      "skin": "https://lh3.googleusercontent.com/-vF93W-meHf4/YYE66T2zkwI/AAAAAAAACZc/CfqayH6vHCMnslizADAw3d7I1h6lcZ9eQCLcBGAsYHQ/school_048.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
+    },
+    {
+      "id": 49,
+      "name_category": "Nature",
+      "title": "School049",
+      "image": "file:///android_asset/view/school_049.png",
+      "skin": "https://lh3.googleusercontent.com/-Z7oF8GwuVi0/YYE66rGcNCI/AAAAAAAACZU/JaD9KmC20FQV-o_8V5oxt9d30Ki-0mjbgCLcBGAsYHQ/school_049.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
+    },
+    {
+      "id": 50,
+      "name_category": "Nature",
+      "title": "School050",
+      "image": "file:///android_asset/view/school_050.png",
+      "skin": "https://lh3.googleusercontent.com/-PnXOy1tFTjY/YYE66mZSwJI/AAAAAAAACZg/27IxH4RYv3sIvfAvv86W1J9EW6wRStEowCLcBGAsYHQ/school_050.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-5.mcpack"
+    },
+    {
+      "id": 51,
+      "name_category": "Nature",
+      "title": "School051",
+      "image": "file:///android_asset/view/school_051.png",
+      "skin": "https://lh3.googleusercontent.com/-pXmKSM8FXNk/YYE66q8L2LI/AAAAAAAACZY/zGwxErSkSPcxfY-hqVtQZhJju8H22ZkoQCLcBGAsYHQ/school_051.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
+    },
+    {
+      "id": 52,
+      "name_category": "Nature",
+      "title": "School052",
+      "image": "file:///android_asset/view/school_052.png",
+      "skin": "https://lh3.googleusercontent.com/-Mx6TLbkzPd4/YYE66zeI9UI/AAAAAAAACZk/Xz983K0RDhk09-ghnCRWVaeaPPAraNhggCLcBGAsYHQ/school_052.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
+    },
+    {
+      "id": 53,
+      "name_category": "Nature",
+      "title": "School053",
+      "image": "file:///android_asset/view/school_053.png",
+      "skin": "https://lh3.googleusercontent.com/-Kh-tw6XmBSk/YYE67usxv-I/AAAAAAAACZs/j6cYOF3BzlUD_5yaWib0FFUNXz8jWpGcQCLcBGAsYHQ/school_053.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
+    },
+    {
+      "id": 54,
+      "name_category": "Nature",
+      "title": "School054",
+      "image": "file:///android_asset/view/school_054.png",
+      "skin": "https://lh3.googleusercontent.com/-RPAwYSemKeY/YYE67Ut1FcI/AAAAAAAACZo/LoiGUqPfJ5MCQeBAVBeZqFG3XHjfmkPRwCLcBGAsYHQ/school_054.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
+    },
+    {
+      "id": 55,
+      "name_category": "Nature",
+      "title": "School055",
+      "image": "file:///android_asset/view/school_055.png",
+      "skin": "https://lh3.googleusercontent.com/-SuieQZBTFLE/YYE676ufFqI/AAAAAAAACZw/hKWBpbamKS0z6Ds1SvJJ8waXxliBvCZmQCLcBGAsYHQ/school_055.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
+    },
+    {
+      "id": 56,
+      "name_category": "Nature",
+      "title": "School056",
+      "image": "file:///android_asset/view/school_056.png",
+      "skin": "https://lh3.googleusercontent.com/-DcitIPvXWWk/YYE68ZVNrDI/AAAAAAAACZ0/V2bxaIqHSE4205wRqf-Y-etema4R6-5AgCLcBGAsYHQ/school_056.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
+    },
+    {
+      "id": 57,
+      "name_category": "Nature",
+      "title": "School057",
+      "image": "file:///android_asset/view/school_057.png",
+      "skin": "https://lh3.googleusercontent.com/-0pv9IdoyqPo/YYE688AXuoI/AAAAAAAACZ4/zgrhWIxeOscV8aMuhH-uoVm2i_qduZVFwCLcBGAsYHQ/school_057.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
+    },
+    {
+      "id": 58,
+      "name_category": "Nature",
+      "title": "School058",
+      "image": "file:///android_asset/view/school_058.png",
+      "skin": "https://lh3.googleusercontent.com/-OFrZnCTptWs/YYE69AxAKYI/AAAAAAAACZ8/wvW3mMMTWI4sO0_ffAaoltbpqydmBj-wwCLcBGAsYHQ/school_058.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
+    },
+    {
+      "id": 59,
+      "name_category": "Nature",
+      "title": "School059",
+      "image": "file:///android_asset/view/school_059.png",
+      "skin": "https://lh3.googleusercontent.com/-kINlaBsMI50/YYE69R-XnbI/AAAAAAAACaA/83s26d0FD5IyUo0jELC8d3EerW91vetXwCLcBGAsYHQ/school_059.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
+    },
+    {
+      "id": 60,
+      "name_category": "Nature",
+      "title": "School060",
+      "image": "file:///android_asset/view/school_060.png",
+      "skin": "https://lh3.googleusercontent.com/-ucej23O-kfM/YYE69nZUFcI/AAAAAAAACaE/ziNOV1jAMJ89_watz00hReNpQ12u_7MogCLcBGAsYHQ/school_060.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-6.mcpack"
+    },
+    {
+      "id": 61,
+      "name_category": "Nature",
+      "title": "School061",
+      "image": "file:///android_asset/view/school_061.png",
+      "skin": "https://lh3.googleusercontent.com/-xGfTuFQZ1U8/YYE696Q-odI/AAAAAAAACaI/Q67Ikk4rGoYA-m2nVf8zKxduXXWzzJPcACLcBGAsYHQ/school_061.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
+    },
+    {
+      "id": 62,
+      "name_category": "Nature",
+      "title": "School062",
+      "image": "file:///android_asset/view/school_062.png",
+      "skin": "https://lh3.googleusercontent.com/-wR9-BavbnGY/YYE6-m5RhqI/AAAAAAAACaM/X-X8M_WrsG0fTBnjZpc_R-jUQt6ADiH1ACLcBGAsYHQ/school_062.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
+    },
+    {
+      "id": 63,
+      "name_category": "Nature",
+      "title": "School063",
+      "image": "file:///android_asset/view/school_063.png",
+      "skin": "https://lh3.googleusercontent.com/-7SpuVUBI1Vg/YYE6-2w_NWI/AAAAAAAACaQ/77FOvWdNAyMo756YzKmV7U-zbDq08tdOACLcBGAsYHQ/school_063.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
+    },
+    {
+      "id": 64,
+      "name_category": "Nature",
+      "title": "School064",
+      "image": "file:///android_asset/view/school_064.png",
+      "skin": "https://lh3.googleusercontent.com/-4wqomILTbgc/YYE6_boUh4I/AAAAAAAACaU/wicb1Bfuv7wy8BF0gRkwVmyj-b7qGq4hwCLcBGAsYHQ/school_064.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
+    },
+    {
+      "id": 65,
+      "name_category": "Nature",
+      "title": "School065",
+      "image": "file:///android_asset/view/school_065.png",
+      "skin": "https://lh3.googleusercontent.com/-ebZlBI1gCAQ/YYE6_93gylI/AAAAAAAACaY/i72exQCOHa8csTI7xi4qv4DBIDsQ8c44ACLcBGAsYHQ/school_065.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
+    },
+    {
+      "id": 66,
+      "name_category": "Nature",
+      "title": "School066",
+      "image": "file:///android_asset/view/school_066.png",
+      "skin": "https://lh3.googleusercontent.com/-aKrxn75ceBU/YYE6_z2LxAI/AAAAAAAACac/xlSi6-9-M9g09nEGD2PYZndZlgTTWi_HwCLcBGAsYHQ/school_066.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
+    },
+    {
+      "id": 67,
+      "name_category": "Nature",
+      "title": "School067",
+      "image": "file:///android_asset/view/school_067.png",
+      "skin": "https://lh3.googleusercontent.com/-VCSPecXoKa8/YYE7ArIBFAI/AAAAAAAACag/vaftBA2JfXc7ty43GBOYBOW2WWs9ypFfwCLcBGAsYHQ/school_067.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
+    },
+    {
+      "id": 68,
+      "name_category": "Nature",
+      "title": "School068",
+      "image": "file:///android_asset/view/school_068.png",
+      "skin": "https://lh3.googleusercontent.com/-ANLRrIRoz1A/YYE7AxZa1CI/AAAAAAAACak/4VC9U6VHebYnIOK5h6wUBZC3rvDv5R08wCLcBGAsYHQ/school_068.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
+    },
+    {
+      "id": 69,
+      "name_category": "Nature",
+      "title": "School069",
+      "image": "file:///android_asset/view/school_069.png",
+      "skin": "https://lh3.googleusercontent.com/-TbHws_7OK7c/YYE7BbS_AUI/AAAAAAAACao/eM6LoWM22gQUfMGMODYyLtf35JKOEF40ACLcBGAsYHQ/school_069.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
+    },
+    {
+      "id": 70,
+      "name_category": "Nature",
+      "title": "School070",
+      "image": "file:///android_asset/view/school_070.png",
+      "skin": "https://lh3.googleusercontent.com/-HT2HLGQky6I/YYE7B9-Bf7I/AAAAAAAACas/9ZBI6z4RjvgsDUnWVSX1dKmrIbNDpTW9QCLcBGAsYHQ/school_070.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-7.mcpack"
+    },
+    {
+      "id": 71,
+      "name_category": "Nature",
+      "title": "School071",
+      "image": "file:///android_asset/view/school_071.png",
+      "skin": "https://lh3.googleusercontent.com/-MgAcWxX0UKY/YYE7CKuS92I/AAAAAAAACaw/98NB3d5RQQI8uZboYaBmNvs1mureE5WTwCLcBGAsYHQ/school_071.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-8.mcpack"
+    },
+    {
+      "id": 72,
+      "name_category": "Nature",
+      "title": "School072",
+      "image": "file:///android_asset/view/school_072.png",
+      "skin": "https://lh3.googleusercontent.com/-l-vDhRYJNXE/YYE7CpxwfhI/AAAAAAAACa0/qLEGOXoyvKwYuu_oSsM1El9GLpAIAwbGQCLcBGAsYHQ/school_072.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-8.mcpack"
+    },
+    {
+      "id": 73,
+      "name_category": "Nature",
+      "title": "School073",
+      "image": "file:///android_asset/view/school_073.png",
+      "skin": "https://lh3.googleusercontent.com/-PzvkYBdoa_8/YYE7C_pz_rI/AAAAAAAACa4/LlqFzmRuufYg-R4c2hzAwslftc-Lvp06gCLcBGAsYHQ/school_073.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-8.mcpack"
+    },
+    {
+      "id": 74,
+      "name_category": "Nature",
+      "title": "School074",
+      "image": "file:///android_asset/view/school_074.png",
+      "skin": "https://lh3.googleusercontent.com/-By6YSWn2XXU/YYE7DKTIFGI/AAAAAAAACa8/MRy-wcNam900j5Y5YYSdeqWOOeqJHHnTgCLcBGAsYHQ/school_074.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-8.mcpack"
+    },
+    {
+      "id": 75,
+      "name_category": "Nature",
+      "title": "School075",
+      "image": "file:///android_asset/view/school_075.png",
+      "skin": "https://lh3.googleusercontent.com/-kuAFc8j3JaI/YYE7Dp3l5II/AAAAAAAACbA/Tnv1lekZ8uQ1trdZ0Ibhek8wRCAnzLkLACLcBGAsYHQ/school_075.png",
+      "download": "https://github.com/mciconcraft/nauralucha/raw/main/mcpack/school-skin-pack-8.mcpack"
+    }
   ]
 }
